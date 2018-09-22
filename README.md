@@ -1,2 +1,2 @@
 # michalpasierbski.github.io
-https://pasierbski.eu
+https://www.pasierbski.eu
